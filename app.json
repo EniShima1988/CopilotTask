@@ -1,0 +1,33 @@
+{
+  "id": "6a0ba020-8de5-482e-89b0-6c3bb95be4b1",
+  "name": "Copilot Task",
+  "publisher": "Eni Shima",
+  "version": "1.0.0.0",
+  "brief": "Copilot Task",
+  "description": "Copilot Task",
+   "privacyStatement": "https://www.isystems-group.com/",
+  "EULA": "https://www.isystems-group.com/",
+  "help": "https://www.isystems-group.com/",
+  "url": "https://www.isystems-group.com/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}
