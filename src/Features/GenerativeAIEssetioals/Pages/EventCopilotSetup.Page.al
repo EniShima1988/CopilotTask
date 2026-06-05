@@ -24,6 +24,7 @@ page 50100 "Event Copilot Setup"
                 field(UserAPIKey; Rec.UserAPIKey)
                 {
                     ToolTip = 'Specifies the value of the API Key field.', Comment = '%';
+                    MaskType = Concealed;
                 }
             }
         }
